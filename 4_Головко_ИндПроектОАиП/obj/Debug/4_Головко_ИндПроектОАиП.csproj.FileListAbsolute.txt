@@ -1,0 +1,45 @@
+C:\Users\adm_yaroslava\source\repos\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\bin\Debug\4_Головко_ИндПроектОАиП.exe.config
+C:\Users\adm_yaroslava\source\repos\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\bin\Debug\4_Головко_ИндПроектОАиП.exe
+C:\Users\adm_yaroslava\source\repos\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\bin\Debug\4_Головко_ИндПроектОАиП.pdb
+C:\Users\adm_yaroslava\source\repos\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.csprojAssemblyReference.cache
+C:\Users\adm_yaroslava\source\repos\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\_4_Головко_ИндПроектОАиП.Properties.Resources.resources
+C:\Users\adm_yaroslava\source\repos\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.csproj.GenerateResource.cache
+C:\Users\adm_yaroslava\source\repos\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.csproj.CoreCompileInputs.cache
+C:\Users\adm_yaroslava\source\repos\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.exe
+C:\Users\adm_yaroslava\source\repos\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.pdb
+C:\Users\adm_yaroslava\source\repos\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\_4_Головко_ИндПроектОАиП.FormMain.resources
+C:\Users\adm_yaroslava\source\repos\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\_4_Головко_ИндПроектОАиП.FormZakaz.resources
+C:\Users\adm_yaroslava\source\repos\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\_4_Головко_ИндПроектОАиП.FormAkk.resources
+C:\Users\adm_yaroslava\source\repos\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\_4_Головко_ИндПроектОАиП.FormWe.resources
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\bin\Debug\4_Головко_ИндПроектОАиП.exe.config
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\bin\Debug\4_Головко_ИндПроектОАиП.exe
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\bin\Debug\4_Головко_ИндПроектОАиП.pdb
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.csprojAssemblyReference.cache
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\_4_Головко_ИндПроектОАиП.Properties.Resources.resources
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.csproj.GenerateResource.cache
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.csproj.CoreCompileInputs.cache
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.exe
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.pdb
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\_4_Головко_ИндПроектОАиП.FormStock.resources
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\_4_Головко_ИндПроектОАиП.FormOrder.resources
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\bin\Debug\LibraryPizzeria.dll
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\bin\Debug\LibraryPizzeria.pdb
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.csproj.CopyComplete
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\_4_Головко_ИндПроектОАиП.FormBase.resources
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\_4_Головко_ИндПроектОАиП.FormAboutApp.resources
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\bin\Debug\4_Головко_ИндПроектОАиП.exe.config
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\bin\Debug\4_Головко_ИндПроектОАиП.exe
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\bin\Debug\4_Головко_ИндПроектОАиП.pdb
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\bin\Debug\LibraryPizzeria.dll
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\bin\Debug\LibraryPizzeria.pdb
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.csprojAssemblyReference.cache
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\_4_Головко_ИндПроектОАиП.FormAboutApp.resources
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\_4_Головко_ИндПроектОАиП.FormBase.resources
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\_4_Головко_ИндПроектОАиП.FormStock.resources
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\_4_Головко_ИндПроектОАиП.FormOrder.resources
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\_4_Головко_ИндПроектОАиП.Properties.Resources.resources
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.csproj.GenerateResource.cache
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.csproj.CoreCompileInputs.cache
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.csproj.CopyComplete
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.exe
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\4_Головко_ИндПроектОАиП\obj\Debug\4_Головко_ИндПроектОАиП.pdb

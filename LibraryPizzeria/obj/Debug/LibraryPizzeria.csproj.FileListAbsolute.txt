@@ -1,0 +1,8 @@
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\LibraryPizzeria\bin\Debug\LibraryPizzeria.dll
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\LibraryPizzeria\bin\Debug\LibraryPizzeria.pdb
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryPizzeria.csproj.CoreCompileInputs.cache
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryPizzeria.dll
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryPizzeria.pdb
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryPizzeria.csprojAssemblyReference.cache
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryPizzeria.Properties.Resources.resources
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryPizzeria.csproj.GenerateResource.cache

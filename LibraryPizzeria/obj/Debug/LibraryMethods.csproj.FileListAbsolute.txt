@@ -1,0 +1,16 @@
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\LibraryPizzeria\bin\Debug\LibraryPizzeria.dll
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\LibraryPizzeria\bin\Debug\LibraryPizzeria.pdb
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryMethods.csprojAssemblyReference.cache
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryPizzeria.Properties.Resources.resources
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryMethods.csproj.GenerateResource.cache
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryMethods.csproj.CoreCompileInputs.cache
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryPizzeria.dll
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryPizzeria.pdb
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\LibraryPizzeria\bin\Debug\LibraryPizzeria.dll
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\LibraryPizzeria\bin\Debug\LibraryPizzeria.pdb
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryMethods.csprojAssemblyReference.cache
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryPizzeria.Properties.Resources.resources
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryMethods.csproj.GenerateResource.cache
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryMethods.csproj.CoreCompileInputs.cache
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryPizzeria.dll
+C:\Users\adm_yaroslava\Documents\4_Головко_ИндПроектОАиП (3)\4_Головко_ИндПроектОАиП\LibraryPizzeria\obj\Debug\LibraryPizzeria.pdb
