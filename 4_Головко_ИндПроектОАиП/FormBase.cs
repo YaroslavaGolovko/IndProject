@@ -20,6 +20,7 @@ namespace _4_Головко_ИндПроектОАиП
         private void btnExit_Click(object sender, EventArgs e)
         {
             Application.Exit();
+
         }
 
         private void btnOrder_Click(object sender, EventArgs e)
